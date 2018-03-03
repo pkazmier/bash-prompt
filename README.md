@@ -1,7 +1,7 @@
 # bash-prompt
 A lightweight (single file), cross-compatible (bash v3/v4, MacOS, Linux) bash prompt.
 
-![Clarity](images/clarity.png)
+![Dark Theme](images/dark_theme2.png)
 
 ## Features
 
@@ -47,26 +47,30 @@ in your terminal emulator.
 ![Switching Theme](images/theme_switching.png)
 
 ### ps1_dark_theme
+![ps1_dark_theme](images/dark_theme2.png)
 ![ps1_dark_theme](images/dark_theme.png)
 
 ### ps1_colorful_theme
+![ps1_colorful_theme](images/colorful_theme2.png)
 ![ps1_colorful_theme](images/colorful_theme.png)
 
 ### ps1_white_theme
+![ps1_white_theme](images/white_theme2.png)
 ![ps1_white_theme](images/white_theme.png)
 
 ### ps1_blue_theme
+![ps1_blue_theme](images/blue_theme2.png)
 ![ps1_blue_theme](images/blue_theme.png)
 
 ### ps1_green_theme
+![ps1_green_theme](images/green_theme2.png)
 ![ps1_green_theme](images/green_theme.png)
 
 ### ps1_yellow_theme
+![ps1_yellow_theme](images/yellow_theme2.png)
 ![ps1_yellow_theme](images/yellow_theme.png)
 
 ### ps1_red_theme
+![ps1_red_theme](images/red_theme2.png)
 ![ps1_red_theme](images/red_theme.png)
-
-
-
 
