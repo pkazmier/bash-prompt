@@ -40,8 +40,12 @@ fi
 ## Color Themes
 
 Here are the included themes. To switch the theme in your current session, type 
-the name of a theme. Note: your colors will vary depending on the colors defined 
-in your terminal emulator.
+the name of a theme. 
+
+*Note: your colors will vary depending on the ANSI color definitions in your terminal
+emulator. I have included my MacOS Terminal.app [theme](misc/Plastic.terminal) in the
+`misc` directory if you want to mimic this exact look. That color theme is based on
+Will Stone's [Plastic theme for VSCode](https://will-stone.github.io/plastic/).*
 
 ### Switching Themes
 ![Switching Theme](images/theme_switching.png)
