@@ -78,3 +78,8 @@ Will Stone's [Plastic theme](https://will-stone.github.io/plastic/) for VSCode.*
 ![ps1_red_theme](images/red_theme2.png)
 ![ps1_red_theme](images/red_theme.png)
 
+
+## VSCode Integrated Terminal
+Here is a screenshot of the bash prompt in the VSCode's integrated terminal.
+
+![vscode_term.png](images/vscode_term.png)
